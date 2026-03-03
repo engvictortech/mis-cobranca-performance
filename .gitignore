@@ -1,0 +1,12 @@
+# Python / Jupyter
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Power BI temporários
+~$*
+*.tmp
+
+# Windows
+Thumbs.db
+desktop.ini

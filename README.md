@@ -20,26 +20,47 @@ Desenvolver um pipeline completo de dados para:
 ## 🏗️ Estrutura do Projeto
 
 mis-cobranca-performance/
+
 │
+
 ├── data/
+
 │ ├── raw/
+
 │ └── processed/
+
 │
+
 ├── notebooks/
+
 │ ├── 01_geracao_dados.ipynb
+
 │ ├── 02_analise_exploratoria.ipynb
+
 │ └── 03_kpis_operacionais.ipynb
+
 │
+
 ├── sql/
+
 │ ├── kpis_recuperacao.sql
+
 │ ├── produtividade_operador.sql
+
 │ └── conversao_por_faixa.sql
+
 │
+
 ├── dashboards/
+
 │
+
 ├── reports/
+
 │
+
 ├── README.md
+
 └── requirements.txt
 
 ---
@@ -109,6 +130,6 @@ pip install -r requirements.txt
 
 ## 👨‍💻 Autor
 
-Victor Hugo Miranda Crispim  
+# Victor Hugo Miranda Crispim  
 Projeto desenvolvido para fins de portfólio e simulação de ambiente corporativo.
 

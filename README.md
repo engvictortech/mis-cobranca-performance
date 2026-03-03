@@ -53,7 +53,9 @@ mis-cobranca-performance/
 
 ├── dashboards/
 
-│
+│  ├── dashboard_executivo.pbix
+
+│  └── dashboard_operacional.pbix
 
 ├── reports/
 
